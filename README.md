@@ -1,0 +1,2 @@
+# inspirify
+Desktop daily quote
